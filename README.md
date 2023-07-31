@@ -1,7 +1,5 @@
 # Bookshelf-API
 Tugas Akhir Belajar Membuat Aplikasi Back-End Pemula
-# Bookshelf API
-
 ## Data
 
 API ini akan menyimpan data buku dengan atribut sebagai berikut:
